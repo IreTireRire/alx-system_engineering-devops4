@@ -1,2 +1,4 @@
 #!/bin/bash
 it should be 2
+pwd
+0-current_working_directory

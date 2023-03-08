@@ -1,3 +1,1 @@
-#!/bin/bash
-not empty
-chmod u+x file
+where am i
